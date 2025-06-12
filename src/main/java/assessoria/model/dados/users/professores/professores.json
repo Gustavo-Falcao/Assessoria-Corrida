@@ -1,0 +1,48 @@
+{
+  "KPro4" : {
+    "id" : "Pro4",
+    "nome" : "Carla Machado",
+    "email" : "carla_ma@gmail.com",
+    "cpf" : "162.488.220-00",
+    "idade" : 32,
+    "telefone" : "(41)93330-8980",
+    "senhaHash" : "Carla_MA10",
+    "hashProvider" : "$2a$10$udiO5cqXPU2e9oe.cDOS0Opa5p6rRgJzo0FjqS7pa0ONbIHc/cD3u",
+    "contatoEmergencia" : null,
+    "infoMedica" : {
+      "descCondicaoMedica" : null,
+      "descAlergia" : "Acaro",
+      "quaisMedicamentoEmUso" : null,
+      "frequenciaMedicamentoEmUso" : null,
+      "descLesaoRecenteOuCronica" : null,
+      "descCirurgiaRecente" : null,
+      "descRestricaoMedica" : null,
+      "descTipoSanguineo" : "O+"
+    }
+  },
+  "KPro5" : {
+    "id" : "Pro5",
+    "nome" : "Carlos Alcaraz",
+    "email" : "carlos_alcaraz@gmail.com",
+    "cpf" : "883.628.930-44",
+    "idade" : 22,
+    "telefone" : "(90)91314-2221",
+    "senhaHash" : "Carlos@22",
+    "hashProvider" : "$2a$10$QoNHy6jdVKf72CGArlIBRugV9NO3f5jYI53yyYFDIqULGpwc.Eg5S",
+    "contatoEmergencia" : {
+      "nome" : "Jannik Sinner",
+      "telefone" : "(91)93231-1110",
+      "relacionamento" : "filho"
+    },
+    "infoMedica" : {
+      "descCondicaoMedica" : null,
+      "descAlergia" : null,
+      "quaisMedicamentoEmUso" : null,
+      "frequenciaMedicamentoEmUso" : null,
+      "descLesaoRecenteOuCronica" : null,
+      "descCirurgiaRecente" : null,
+      "descRestricaoMedica" : null,
+      "descTipoSanguineo" : "B-"
+    }
+  }
+}

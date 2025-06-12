@@ -5,10 +5,8 @@ import java.util.Map;
 
 public class AdministradorDAO extends GenericDAO<Administrador>{
 
-    private final String caminhoArquivo = "users/administrador/administrador.json";
-
     public AdministradorDAO() {
-        super(Administrador.class);
+        super(Administrador.class, "src/main/java/assessoria/model/dados/users/administrador/administrador.json");
     }
 
     @Override
@@ -21,8 +19,4 @@ public class AdministradorDAO extends GenericDAO<Administrador>{
         return super.lerDadosDoArquivo();
     }
 
-    @Override
-    public String getCaminhoArquivo() {
-        return caminhoArquivo;
-    }
 }

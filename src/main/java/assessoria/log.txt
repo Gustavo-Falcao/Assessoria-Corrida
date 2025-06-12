@@ -299,3 +299,117 @@
 [2025-06-12 09:06:31] INFO - Map de treinos foi salvo no arquivo.
 [2025-06-12 09:06:37] INFO - Salvos os ultimos IDs que foram gerados.
 [2025-06-12 09:06:37] INFO - Sistema encerrado.
+[2025-06-12 09:59:50] INFO - Sistema iniciado.
+[2025-06-12 09:59:50] INFO - Map de Professores inicializado.
+[2025-06-12 09:59:50] INFO - Map de Administradores inicializado.
+[2025-06-12 09:59:50] INFO - Map de Alunos inicializado.
+[2025-06-12 09:59:50] INFO - IDs inicializados.
+[2025-06-12 09:59:50] INFO - Map de treinos inicializado.
+[2025-06-12 09:59:53] INFO - Salvos os ultimos IDs que foram gerados.
+[2025-06-12 09:59:53] INFO - Sistema encerrado.
+[2025-06-12 10:10:19] INFO - Sistema iniciado.
+[2025-06-12 10:10:19] INFO - Map de Professores inicializado.
+[2025-06-12 10:10:19] INFO - Map de Administradores inicializado.
+[2025-06-12 10:10:19] INFO - Map de Alunos inicializado.
+[2025-06-12 10:10:19] INFO - IDs inicializados.
+[2025-06-12 10:10:19] INFO - Map de treinos inicializado.
+[2025-06-12 10:14:45] INFO - Dados do aluno (ID Alu5) foi registrado no arquivo.
+[2025-06-12 10:17:48] INFO - Gustavo Duarte Falcão fez login
+[2025-06-12 10:18:32] INFO - Dados do aluno (ID Alu5) foi registrado no arquivo.
+[2025-06-12 10:18:32] INFO - Map de treinos foi salvo no arquivo.
+[2025-06-12 10:18:37] INFO - Dados do aluno (ID Alu5) foi registrado no arquivo.
+[2025-06-12 10:18:37] INFO - Map de treinos foi salvo no arquivo.
+[2025-06-12 10:22:59] INFO - Sistema iniciado.
+[2025-06-12 10:22:59] INFO - Map de Professores inicializado.
+[2025-06-12 10:22:59] INFO - Map de Administradores inicializado.
+[2025-06-12 10:22:59] INFO - Map de Alunos inicializado.
+[2025-06-12 10:22:59] INFO - IDs inicializados.
+[2025-06-12 10:22:59] INFO - Map de treinos inicializado.
+[2025-06-12 10:24:01] INFO - Sistema iniciado.
+[2025-06-12 10:24:01] INFO - Map de Professores inicializado.
+[2025-06-12 10:24:01] INFO - Map de Administradores inicializado.
+[2025-06-12 10:24:01] INFO - Map de Alunos inicializado.
+[2025-06-12 10:24:01] INFO - IDs inicializados.
+[2025-06-12 10:24:01] INFO - Map de treinos inicializado.
+[2025-06-12 10:25:33] INFO - Sistema iniciado.
+[2025-06-12 10:25:33] INFO - Map de Professores inicializado.
+[2025-06-12 10:25:33] INFO - Map de Administradores inicializado.
+[2025-06-12 10:25:33] INFO - Map de Alunos inicializado.
+[2025-06-12 10:25:33] INFO - IDs inicializados.
+[2025-06-12 10:25:33] INFO - Map de treinos inicializado.
+[2025-06-12 10:25:54] INFO - Sistema iniciado.
+[2025-06-12 10:25:54] INFO - Map de Professores inicializado.
+[2025-06-12 10:25:54] INFO - Map de Administradores inicializado.
+[2025-06-12 10:25:54] INFO - Map de Alunos inicializado.
+[2025-06-12 10:25:54] INFO - IDs inicializados.
+[2025-06-12 10:25:54] INFO - Map de treinos inicializado.
+[2025-06-12 10:25:57] INFO - Sistema iniciado.
+[2025-06-12 10:25:57] INFO - Map de Professores inicializado.
+[2025-06-12 10:25:57] INFO - Map de Administradores inicializado.
+[2025-06-12 10:25:57] INFO - Map de Alunos inicializado.
+[2025-06-12 10:25:57] INFO - IDs inicializados.
+[2025-06-12 10:25:57] INFO - Map de treinos inicializado.
+[2025-06-12 10:26:32] INFO - Carla Machado fez login
+[2025-06-12 10:27:16] INFO - Sistema iniciado.
+[2025-06-12 10:27:16] INFO - Map de Professores inicializado.
+[2025-06-12 10:27:16] INFO - Map de Administradores inicializado.
+[2025-06-12 10:27:16] INFO - Map de Alunos inicializado.
+[2025-06-12 10:27:16] INFO - IDs inicializados.
+[2025-06-12 10:27:16] INFO - Map de treinos inicializado.
+[2025-06-12 10:28:34] INFO - Professor ID Pro4 foi adicionado ao Map
+[2025-06-12 10:28:34] INFO - Dados do professor (ID Pro4) foi registrado no arquivo.
+[2025-06-12 10:29:03] INFO - Carlos Alcaraz fez login
+[2025-06-12 10:29:48] INFO - Aluno com ID(Alu5) foi selecionado para receber um treino
+[2025-06-12 10:29:48] INFO - Map de treinos foi salvo no arquivo.
+[2025-06-12 10:29:48] INFO - Dados do treino (ID Tre8) foi registrado no arquivo.
+[2025-06-12 10:32:15] INFO - Jeferson fez login
+[2025-06-12 15:19:54] INFO - Sistema iniciado.
+[2025-06-12 15:19:54] INFO - Map de Professores inicializado.
+[2025-06-12 15:19:54] INFO - Map de Administradores inicializado.
+[2025-06-12 15:19:54] INFO - Map de Alunos inicializado.
+[2025-06-12 15:19:54] INFO - IDs inicializados.
+[2025-06-12 15:19:54] INFO - Map de treinos inicializado.
+[2025-06-12 15:30:11] INFO - Dados do aluno (ID Alu5) foi registrado no arquivo.
+[2025-06-12 15:32:17] INFO - Dados do aluno (ID Alu6) foi registrado no arquivo.
+[2025-06-12 15:35:55] INFO - Dados do aluno (ID Alu7) foi registrado no arquivo.
+[2025-06-12 15:38:46] INFO - Professor ID Pro4 foi adicionado ao Map
+[2025-06-12 15:38:47] INFO - Dados do professor (ID Pro4) foi registrado no arquivo.
+[2025-06-12 15:41:17] INFO - Professor ID Pro5 foi adicionado ao Map
+[2025-06-12 15:41:17] INFO - Dados do professor (ID Pro5) foi registrado no arquivo.
+[2025-06-12 15:43:24] INFO - Administrador ID Adm1 foi adicionado ao Map
+[2025-06-12 15:43:24] INFO - Dados do administrador (ID Adm1) foi registrado no arquivo.
+[2025-06-12 15:49:20] INFO - Carla Machado fez login
+[2025-06-12 15:50:04] INFO - Aluno com ID(Alu7) foi selecionado para receber um treino
+[2025-06-12 15:50:04] INFO - Map de treinos foi salvo no arquivo.
+[2025-06-12 15:50:04] INFO - Dados do treino (ID Tre8) foi registrado no arquivo.
+[2025-06-12 17:02:10] INFO - Anna Ribeiro Gonçalves fez login
+[2025-06-12 17:05:25] INFO - Carlos Alcaraz fez login
+[2025-06-12 17:07:43] INFO - Aluno com ID(Alu5) foi selecionado para receber um treino
+[2025-06-12 17:07:43] INFO - Map de treinos foi salvo no arquivo.
+[2025-06-12 17:07:43] INFO - Dados do treino (ID Tre9) foi registrado no arquivo.
+[2025-06-12 17:15:18] INFO - Carlos Alcaraz fez login
+[2025-06-12 17:15:52] INFO - Aluno com ID(Alu5) foi selecionado para receber um treino
+[2025-06-12 17:15:52] INFO - Aluno com ID(Alu5) foi selecionado para modificar o seu treino.
+[2025-06-12 17:21:45] INFO - Rafael Bastos fez login
+[2025-06-12 17:22:26] INFO - Salvos os ultimos IDs que foram gerados.
+[2025-06-12 17:22:26] INFO - Sistema encerrado.
+[2025-06-12 17:23:59] INFO - Sistema iniciado.
+[2025-06-12 17:23:59] INFO - Map de Professores inicializado.
+[2025-06-12 17:23:59] INFO - Map de Administradores inicializado.
+[2025-06-12 17:23:59] INFO - Map de Alunos inicializado.
+[2025-06-12 17:23:59] INFO - IDs inicializados.
+[2025-06-12 17:23:59] INFO - Map de treinos inicializado.
+[2025-06-12 17:24:59] INFO - Rafael Bastos fez login
+[2025-06-12 17:25:19] INFO - Salvos os ultimos IDs que foram gerados.
+[2025-06-12 17:25:19] INFO - Sistema encerrado.
+[2025-06-12 17:39:53] INFO - Sistema iniciado.
+[2025-06-12 17:39:53] INFO - Map de Professores inicializado.
+[2025-06-12 17:39:53] INFO - Map de Administradores inicializado.
+[2025-06-12 17:39:53] INFO - Map de Alunos inicializado.
+[2025-06-12 17:39:53] INFO - IDs inicializados.
+[2025-06-12 17:39:53] INFO - Map de treinos inicializado.
+[2025-06-12 17:42:27] INFO - Carlos Alcaraz fez login
+[2025-06-12 17:42:55] INFO - Aluno com ID(Alu5) foi selecionado para receber um treino
+[2025-06-12 17:42:55] INFO - Aluno com ID(Alu5) foi selecionado para modificar o seu treino.
+[2025-06-12 17:45:46] INFO - Salvos os ultimos IDs que foram gerados.
+[2025-06-12 17:45:46] INFO - Sistema encerrado.

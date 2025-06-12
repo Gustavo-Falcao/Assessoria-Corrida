@@ -217,6 +217,10 @@ public class ProfessorView {
         treinoController.salvarTreino(treino);
     }
 
+    public void salvarTreinoMap() {
+        treinoController.salvarMapTreinoArq();
+    }
+
     public void mostrarDadosProfessor(Professor professor) {
         professor.mostrarInfoCompleta();
     }

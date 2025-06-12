@@ -167,6 +167,7 @@ public class ProfessorApp {
             tratarOpDiaTreino(opCriarTreino, treino);
         }while(opCriarTreino != 0);
         professorView.salvarTreino(treino);
+        professorView.salvarTreinoMap();
     }
 
     private void tratarOpDiaTreino(int opDia, Treino treino) {

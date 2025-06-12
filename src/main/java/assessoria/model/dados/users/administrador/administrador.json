@@ -1,0 +1,14 @@
+{
+  "KAdm1" : {
+    "id" : "Adm1",
+    "nome" : "Maria Cardoso",
+    "email" : "maria_card@gmail.com",
+    "cpf" : "965.368.070-65",
+    "idade" : 29,
+    "telefone" : "(11)94454-0009",
+    "senhaHash" : "mariaCar07",
+    "hashProvider" : "$2a$10$XmGbV9UlTmKmtq2EfNa/YeMKcB7ErSLpalTF8iK5HdPZRRfEHLvXO",
+    "contatoEmergencia" : null,
+    "infoMedica" : null
+  }
+}

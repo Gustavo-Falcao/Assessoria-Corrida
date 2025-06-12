@@ -6,10 +6,8 @@ import java.util.Map;
 
 public class TreinoDAO extends GenericDAO<Treino> {
 
-    private final String caminhoArquivo = "treino/treinos.json";
-
     public TreinoDAO() {
-        super(Treino.class);
+        super(Treino.class, "src/main/java/assessoria/model/dados/treino/treinos.json");
     }
 
     @Override
@@ -22,10 +20,6 @@ public class TreinoDAO extends GenericDAO<Treino> {
         return super.lerDadosDoArquivo();
     }
 
-    @Override
-    public String getCaminhoArquivo() {
-        return caminhoArquivo;
-    }
 
 
 }

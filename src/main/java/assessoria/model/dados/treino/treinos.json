@@ -1,0 +1,109 @@
+{
+  "Tre8" : {
+    "id" : "Tre8",
+    "aluno" : {
+      "id" : "Alu7",
+      "nome" : "Anna Ribeiro Gonçalves",
+      "email" : "ana_rib@gmail.com",
+      "cpf" : "225.513.490-01",
+      "idade" : 28,
+      "telefone" : "(68)94435-0000",
+      "senhaHash" : "Annaribero10",
+      "hashProvider" : "$2a$10$W9Twsld6lFo21jyqpBVr6.RhQMIn4krIEvkVbbXABt9Tyl7uk5/eO",
+      "contatoEmergencia" : {
+        "nome" : "Jefferson Rodriguez",
+        "telefone" : "(041)92313-0009",
+        "relacionamento" : "amigo"
+      },
+      "infoMedica" : {
+        "descCondicaoMedica" : null,
+        "descAlergia" : null,
+        "quaisMedicamentoEmUso" : null,
+        "frequenciaMedicamentoEmUso" : null,
+        "descLesaoRecenteOuCronica" : "Joelho",
+        "descCirurgiaRecente" : "Ligamento cruzado",
+        "descRestricaoMedica" : null,
+        "descTipoSanguineo" : "B-"
+      }
+    },
+    "professor" : {
+      "id" : "Pro4",
+      "nome" : "Carla Machado",
+      "email" : "carla_ma@gmail.com",
+      "cpf" : "162.488.220-00",
+      "idade" : 32,
+      "telefone" : "(41)93330-8980",
+      "senhaHash" : "Carla_MA10",
+      "hashProvider" : "$2a$10$udiO5cqXPU2e9oe.cDOS0Opa5p6rRgJzo0FjqS7pa0ONbIHc/cD3u",
+      "contatoEmergencia" : null,
+      "infoMedica" : {
+        "descCondicaoMedica" : null,
+        "descAlergia" : "Acaro",
+        "quaisMedicamentoEmUso" : null,
+        "frequenciaMedicamentoEmUso" : null,
+        "descLesaoRecenteOuCronica" : null,
+        "descCirurgiaRecente" : null,
+        "descRestricaoMedica" : null,
+        "descTipoSanguineo" : "O+"
+      }
+    },
+    "planoSemanal" : {
+      "MONDAY" : [ "Aquecimento", "Trote leve de 15 min" ],
+      "TUESDAY" : [ "Regenerativo", "15 km com pace de 5:10" ]
+    }
+  },
+  "Tre9" : {
+    "id" : "Tre9",
+    "aluno" : {
+      "id" : "Alu5",
+      "nome" : "Rafael Bastos",
+      "email" : "rafa_bast@gmail.com",
+      "cpf" : "735.081.590-51",
+      "idade" : 27,
+      "telefone" : "(11)92112-9990",
+      "senhaHash" : "Rafa_012",
+      "hashProvider" : "$2a$10$yzlM.mR9tru9hquHXM6fvuVEToQS9ECKlRbvTGFp3i8mjgNBknPdy",
+      "contatoEmergencia" : {
+        "nome" : "Marlene Dos Santos",
+        "telefone" : "(091)92314-5556",
+        "relacionamento" : "irmã"
+      },
+      "infoMedica" : {
+        "descCondicaoMedica" : "problemas cardíacos",
+        "descAlergia" : null,
+        "quaisMedicamentoEmUso" : "Amiodarona",
+        "frequenciaMedicamentoEmUso" : "Todos os dias",
+        "descLesaoRecenteOuCronica" : null,
+        "descCirurgiaRecente" : null,
+        "descRestricaoMedica" : "Atividades de altíssima intensidade",
+        "descTipoSanguineo" : "B+"
+      }
+    },
+    "professor" : {
+      "id" : "Pro5",
+      "nome" : "Carlos Alcaraz",
+      "email" : "carlos_alcaraz@gmail.com",
+      "cpf" : "883.628.930-44",
+      "idade" : 22,
+      "telefone" : "(90)91314-2221",
+      "senhaHash" : "Carlos@22",
+      "hashProvider" : "$2a$10$QoNHy6jdVKf72CGArlIBRugV9NO3f5jYI53yyYFDIqULGpwc.Eg5S",
+      "contatoEmergencia" : {
+        "nome" : "Jannik Sinner",
+        "telefone" : "(91)93231-1110",
+        "relacionamento" : "filho"
+      },
+      "infoMedica" : {
+        "descCondicaoMedica" : null,
+        "descAlergia" : null,
+        "quaisMedicamentoEmUso" : null,
+        "frequenciaMedicamentoEmUso" : null,
+        "descLesaoRecenteOuCronica" : null,
+        "descCirurgiaRecente" : null,
+        "descRestricaoMedica" : null,
+        "descTipoSanguineo" : "B-"
+      }
+    },
+    "planoSemanal" : { }
+  }
+}

@@ -13,22 +13,22 @@ import java.util.Map;
 
 public abstract class GenericDAO<T extends Savable> {
 
-    private final MensagemView mensagemView = new MensagemView();
     private final Class<T> typeClass;
-    private final String caminhoBase = "src/main/java/assessoria/model/dados/";
+    private final String caminhoArquivo;
 
-    public GenericDAO(Class<T> typeClass) {
+    public GenericDAO(Class<T> typeClass, String caminhoArquivo) {
         this.typeClass = typeClass;
+        this.caminhoArquivo = caminhoArquivo;
     }
 
     public void inserirDadosNoArquivo(Map<String, T> typeMap) {
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.enable(SerializationFeature.INDENT_OUTPUT);
         try{
-            objectMapper.writeValue(new File(getCaminhoBase() + getCaminhoArquivo()), typeMap);
+            objectMapper.writeValue(new File(caminhoArquivo), typeMap);
 
         } catch (IOException e) {
-            mensagemView.mostrarErro("Erro ao tentar salvar dados!!");
+            MensagemView.mostrarErro("Erro ao tentar salvar dados!!");
             Log.registrar("Error", "Falha ao tentar salvar dados ");
             System.out.println(e.getMessage());
         }
@@ -36,7 +36,7 @@ public abstract class GenericDAO<T extends Savable> {
 
     public Map<String,T> lerDadosDoArquivo() {
         ObjectMapper objectMapper = new ObjectMapper();
-        File file = new File(getCaminhoBase() + getCaminhoArquivo());
+        File file = new File(caminhoArquivo);
         if(!file.exists() || file.length() == 0) {
             return new LinkedHashMap<>();
         }
@@ -46,16 +46,10 @@ public abstract class GenericDAO<T extends Savable> {
 
 
         } catch (Exception e) {
-            mensagemView.mostrarErro("Erro ao carregar map de " + getNomeClass());
+            MensagemView.mostrarErro("Erro ao carregar map de " + getNomeClass());
             throw new RuntimeException(e);
         }
     }
-
-    public String getCaminhoBase() {
-        return caminhoBase;
-    }
-
-    public abstract String getCaminhoArquivo();
 
     public String getNomeClass() {
         return getTypeClass().getSimpleName();

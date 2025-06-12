@@ -64,4 +64,8 @@ public class TreinoController {
     public void atualizarAluno(Aluno aluno) {
         treinoService.atualizarAlunoNoTreino(aluno);
     }
+
+    public void salvarMapTreinoArq() {
+        treinoService.salvarTreinoArquivo();
+    }
 }
